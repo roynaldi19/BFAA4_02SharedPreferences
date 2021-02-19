@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BFAA4_02SharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">No Handphone</string>
+    <string name="age">Age</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="love_chelsea">Suka chelsea?</string>
+    <string name="change">Ubah</string>
+    <string name="dummy_name">Roynaldi</string>
+    <string name="dummy_email">roynaldi19@gmail.com</string>
+    <string name="dummynumber">082391613400</string>
+    <string name="dummyage">28</string>
+    <string name="dummyislove">IsLoveChelsea</string>
+</resources>
